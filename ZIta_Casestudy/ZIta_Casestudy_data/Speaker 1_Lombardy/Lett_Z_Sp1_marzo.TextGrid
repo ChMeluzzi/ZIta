@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.759375 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "or" 
+        xmin = 0 
+        xmax = 1.759375 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42695387298959314 
+            text = "" 
+        intervals [2]:
+            xmin = 0.42695387298959314 
+            xmax = 0.819605093424787 
+            text = "MARZO" 
+        intervals [3]:
+            xmin = 0.819605093424787 
+            xmax = 1.759375 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "affr" 
+        xmin = 0 
+        xmax = 1.759375 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6297571084649304 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6297571084649304 
+            xmax = 0.783575242958208 
+            text = "AFFR-" 
+        intervals [3]:
+            xmin = 0.783575242958208 
+            xmax = 1.759375 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "sf" 
+        xmin = 0 
+        xmax = 1.759375 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6297571084649304 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6297571084649304 
+            xmax = 0.6687827490232496 
+            text = "S-" 
+        intervals [3]:
+            xmin = 0.6687827490232496 
+            xmax = 0.783575242958208 
+            text = "F-" 
+        intervals [4]:
+            xmin = 0.783575242958208 
+            xmax = 1.759375 
+            text = "" 
