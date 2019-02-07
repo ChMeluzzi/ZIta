@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.4065416666666666 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 2.4065416666666666 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20835886990994867 
+            text = "" 
+        intervals [2]:
+            xmin = 0.20835886990994867 
+            xmax = 0.43674160331911915 
+            text = "per" 
+        intervals [3]:
+            xmin = 0.43674160331911915 
+            xmax = 0.591909332095893 
+            text = "lo" 
+        intervals [4]:
+            xmin = 0.591909332095893 
+            xmax = 0.9775127177874278 
+            text = "zio" 
+        intervals [5]:
+            xmin = 0.9775127177874278 
+            xmax = 1.4467528212381575 
+            text = "porta" 
+        intervals [6]:
+            xmin = 1.4467528212381575 
+            xmax = 1.4871228917716 
+            text = "" 
+        intervals [7]:
+            xmin = 1.4871228917716 
+            xmax = 1.582461244620501 
+            text = "un" 
+        intervals [8]:
+            xmin = 1.582461244620501 
+            xmax = 2.0851045615482144 
+            text = "regalo" 
+        intervals [9]:
+            xmin = 2.0851045615482144 
+            xmax = 2.4065416666666666 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phones" 
+        xmin = 0 
+        xmax = 2.4065416666666666 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20835886990994867 
+            text = "" 
+        intervals [2]:
+            xmin = 0.20835886990994867 
+            xmax = 0.26999419329034735 
+            text = "p" 
+        intervals [3]:
+            xmin = 0.26999419329034735 
+            xmax = 0.390422878311127 
+            text = "e" 
+        intervals [4]:
+            xmin = 0.390422878311127 
+            xmax = 0.43674160331911915 
+            text = "r" 
+        intervals [5]:
+            xmin = 0.43674160331911915 
+            xmax = 0.5062196908311074 
+            text = "l" 
+        intervals [6]:
+            xmin = 0.5062196908311074 
+            xmax = 0.591909332095893 
+            text = "o" 
+        intervals [7]:
+            xmin = 0.591909332095893 
+            xmax = 0.7502614732169662 
+            text = "dz" 
+        intervals [8]:
+            xmin = 0.7502614732169662 
+            xmax = 0.9775127177874278 
+            text = "jo" 
+        intervals [9]:
+            xmin = 0.9775127177874278 
+            xmax = 1.0701501678034122 
+            text = "p" 
+        intervals [10]:
+            xmin = 1.0701501678034122 
+            xmax = 1.1674194903201958 
+            text = "o" 
+        intervals [11]:
+            xmin = 1.1674194903201958 
+            xmax = 1.2183700878289871 
+            text = "r" 
+        intervals [12]:
+            xmin = 1.2183700878289871 
+            xmax = 1.330692995973368 
+            text = "t" 
+        intervals [13]:
+            xmin = 1.330692995973368 
+            xmax = 1.4467528212381575 
+            text = "a" 
+        intervals [14]:
+            xmin = 1.4467528212381575 
+            xmax = 1.4871228917716 
+            text = "" 
+        intervals [15]:
+            xmin = 1.4871228917716 
+            xmax = 1.582461244620501 
+            text = "u" 
+        intervals [16]:
+            xmin = 1.582461244620501 
+            xmax = 1.611410447750496 
+            text = "r" 
+        intervals [17]:
+            xmin = 1.611410447750496 
+            xmax = 1.7260492921452768 
+            text = "e" 
+        intervals [18]:
+            xmin = 1.7260492921452768 
+            xmax = 1.7885795709060661 
+            text = "g" 
+        intervals [19]:
+            xmin = 1.7885795709060661 
+            xmax = 1.9611168215608368 
+            text = "a" 
+        intervals [20]:
+            xmin = 1.9611168215608368 
+            xmax = 2.0062775784436293 
+            text = "l" 
+        intervals [21]:
+            xmin = 2.0062775784436293 
+            xmax = 2.0851045615482144 
+            text = "o" 
+        intervals [22]:
+            xmin = 2.0851045615482144 
+            xmax = 2.4065416666666666 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Cons" 
+        xmin = 0 
+        xmax = 2.4065416666666666 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.390422878311127 
+            text = "" 
+        intervals [2]:
+            xmin = 0.390422878311127 
+            xmax = 0.40895036831432385 
+            text = "t_c_1_r" 
+        intervals [3]:
+            xmin = 0.40895036831432385 
+            xmax = 0.43674160331911915 
+            text = "t_a_1_l" 
+        intervals [4]:
+            xmin = 0.43674160331911915 
+            xmax = 0.591909332095893 
+            text = "" 
+        intervals [5]:
+            xmin = 0.591909332095893 
+            xmax = 0.6637033558582808 
+            text = "S* B2" 
+        intervals [6]:
+            xmin = 0.6637033558582808 
+            xmax = 0.7502614732169662 
+            text = "F+" 
+        intervals [7]:
+            xmin = 0.7502614732169662 
+            xmax = 1.1674194903201958 
+            text = "" 
+        intervals [8]:
+            xmin = 1.1674194903201958 
+            xmax = 1.180727650610888 
+            text = "t_c_1_r" 
+        intervals [9]:
+            xmin = 1.180727650610888 
+            xmax = 1.2183700878289871 
+            text = "f_c_1_l" 
+        intervals [10]:
+            xmin = 1.2183700878289871 
+            xmax = 1.582461244620501 
+            text = "" 
+        intervals [11]:
+            xmin = 1.582461244620501 
+            xmax = 1.611410447750496 
+            text = "t_c_1_e" 
+        intervals [12]:
+            xmin = 1.611410447750496 
+            xmax = 2.4065416666666666 
+            text = "" 
