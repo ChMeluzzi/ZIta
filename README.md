@@ -1,6 +1,5 @@
 # ZIta
 ZIta is the first sociophonetic corpus dedicated to dental affricates, two phonemes characterizing Italian regional variation and very difficoult for L2-speakers to acquire.
-
 (c) Meluzzi, Chiara & Nese, Nicholas "Dental affricates variation in Italian regional varieties: introducing the ZIta corpus", poster presented at XV AISV Congress, 14th-16th February, Arezzo (Italy).
 
 Useful references
