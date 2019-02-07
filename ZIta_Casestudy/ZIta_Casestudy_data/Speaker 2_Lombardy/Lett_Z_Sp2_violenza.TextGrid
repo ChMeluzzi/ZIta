@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.8699583333333333 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "or" 
+        xmin = 0 
+        xmax = 0.8699583333333333 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.017410644362833513 
+            text = "" 
+        intervals [2]:
+            xmin = 0.017410644362833513 
+            xmax = 0.5724115477675675 
+            text = "VIOLENZA" 
+        intervals [3]:
+            xmin = 0.5724115477675675 
+            xmax = 0.8699583333333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "affr" 
+        xmin = 0 
+        xmax = 0.8699583333333333 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37379351754640255 
+            text = "" 
+        intervals [2]:
+            xmin = 0.37379351754640255 
+            xmax = 0.48298636828410463 
+            text = "AFFR-" 
+        intervals [3]:
+            xmin = 0.48298636828410463 
+            xmax = 0.8699583333333333 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "sf" 
+        xmin = 0 
+        xmax = 0.8699583333333333 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37379351754640255 
+            text = "" 
+        intervals [2]:
+            xmin = 0.37379351754640255 
+            xmax = 0.3892311274782846 
+            text = "S-" 
+        intervals [3]:
+            xmin = 0.3892311274782846 
+            xmax = 0.48298636828410463 
+            text = "F-" 
+        intervals [4]:
+            xmin = 0.48298636828410463 
+            xmax = 0.8699583333333333 
+            text = "" 
